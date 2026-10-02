@@ -1,4 +1,17 @@
-body { margin: 0; background: #f4f4f4; }
-.article { max-width: 760px; margin: 0 auto; padding: 72px 24px; }
-.article h1 { margin-top: 0; }
-.important { font-weight: 700; }
+body {
+  margin: 0;
+  background: #f4f4f4;
+  font-family: Student font, Helvetica, sans-serif;
+}
+.article {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 72px 24px;
+}
+.article h1 {
+  margin-top: 0;
+  font-weight: 700;
+}
+.important {
+  font-weight: 700;
+}
